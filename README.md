@@ -4,4 +4,4 @@ This project makes use of Tkinter and Sqlite 3 modules of Python and creates a d
 
 # Important
 
-This project is currently under development stage and is not completely functional. So requesting everyone to use the code file and database after doing modifications in the code.
+This project is currently under development stage and is not completely functional. So requesting everyone to use the code file and database after modifying the code.
